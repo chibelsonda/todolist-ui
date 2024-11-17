@@ -2,6 +2,8 @@
 
 Create, udpate, delete, and search todos.
 
+![alt text](image.png)
+
 ## Installation
 
 1. Run `npm install`
